@@ -153,6 +153,7 @@ imgui_enum! {
     pub ColorId: ImGuiCol_ {
         Text,
         TextDisabled,
+        TextLink,
         WindowBg,
         ChildBg,
         PopupBg,
